@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/itsolutionpvtlmt/static/css/main.815219dd.css",
+    "main.js": "/itsolutionpvtlmt/static/js/main.f8dfc5d5.js",
+    "static/media/6974855_4380.jpg": "/itsolutionpvtlmt/static/media/6974855_4380.6b73fc60b62f7528ac9e.jpg",
+    "static/media/10798281_19362653.jpg": "/itsolutionpvtlmt/static/media/10798281_19362653.0a4893421f4eb80a395c.jpg",
+    "static/media/6051734_61530.jpg": "/itsolutionpvtlmt/static/media/6051734_61530.a359fb3384c9f387086e.jpg",
+    "static/media/3047345_32718.jpg": "/itsolutionpvtlmt/static/media/3047345_32718.2e0cf71adfa127205eae.jpg",
+    "static/media/7367537_3646374.jpg": "/itsolutionpvtlmt/static/media/7367537_3646374.f01e9083470e4376f6f4.jpg",
+    "static/media/5395108.jpg": "/itsolutionpvtlmt/static/media/5395108.0f26d4f00a46c8fcdc8b.jpg",
+    "static/media/12491662_4950546.jpg": "/itsolutionpvtlmt/static/media/12491662_4950546.4815eace7c604066e010.jpg",
+    "static/media/13186284_5149654.jpg": "/itsolutionpvtlmt/static/media/13186284_5149654.19cb16240f46dfa52b10.jpg",
+    "static/media/8690678_3969587.jpg": "/itsolutionpvtlmt/static/media/8690678_3969587.0e356a6a17c51f7ae282.jpg",
+    "index.html": "/itsolutionpvtlmt/index.html",
+    "main.815219dd.css.map": "/itsolutionpvtlmt/static/css/main.815219dd.css.map",
+    "main.f8dfc5d5.js.map": "/itsolutionpvtlmt/static/js/main.f8dfc5d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.815219dd.css",
+    "static/js/main.f8dfc5d5.js"
+  ]
+}
