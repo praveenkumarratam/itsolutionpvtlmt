@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Roboto', sans-serif;
+}
+.logo{
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+}
+.logo:hover, .navigation:hover{
+    color:#20b2aa;
+}
+.navigation{
+    font-weight: 500;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.3rem;
+}
+.header{
+    width: 100%;
+    height: 88vh;
+}
+.Header_heading{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.header_desc{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.2rem;
+}
+.brand_name{
+    color:#20b2aa;
+}
+.image_header{
+    max-width: 100%;
+    height: auto;
+}
+.contact_container{
+    width: 100%;
+    height: 85vh;
+}
+.service_card{
+    border: none;
+}
+.footer_text{
+    font-family: 'Times New Roman', Times, serif;
+}
